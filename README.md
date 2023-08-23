@@ -7,3 +7,5 @@ The following message will be shown on the terminal window
 Starting development server at http://127.0.0.1:8000/
 
 Open any browser and paste http://127.0.0.1:8000/ on search bar
+
+Note : the server must be running on your pc 
